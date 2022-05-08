@@ -11,7 +11,7 @@ body{
 
 .container{
     display: grid;
-    width: 80%;
+    width: 70%;
     margin: auto;
     margin-top: 100px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
